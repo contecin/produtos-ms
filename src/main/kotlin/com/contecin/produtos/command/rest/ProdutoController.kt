@@ -1,4 +1,4 @@
-package com.contecin.produtos.controller
+package com.contecin.produtos.command.rest
 
 import org.springframework.core.env.Environment
 import org.springframework.http.ResponseEntity
